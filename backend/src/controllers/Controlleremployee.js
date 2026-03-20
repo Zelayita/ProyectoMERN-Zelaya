@@ -1,4 +1,3 @@
-
 const employeeController = {};
 
 import employeeModel from '../models/employees.js'
